@@ -1,6 +1,10 @@
 ### hello :)
 
-i am karen bocardo, i like writing everything on lowercase and coding. i am currently an universidad panamericana student in mexico, and just started using git and github.
+i am karen bocardo, i like making notes and code. 
+
+i am currently working as a Big Data intern at Grid Dynamics.
+
+i finished a bachelor of computer graphics and systems engineering at universidad panamericana student in mexico, and i am currently at the middle of a Data Science postgraduate studies.
 
 <!--
 **karenbocardo/karenbocardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
