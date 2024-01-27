@@ -1,10 +1,8 @@
-### hello :)
+### hi!
 
-i am karen bocardo, i like making notes and code. 
+i am karen bocardo, i like making notes and code. i am currently finding my passion in computer science, learning and getting to know all about all the existing fields.
 
-i am currently working as a Big Data intern at Grid Dynamics.
-
-i finished a bachelor of computer graphics and systems engineering at universidad panamericana student in mexico, and i am currently at the middle of a Data Science postgraduate studies.
+i finished a bachelor of computer graphics and systems engineering at universidad panamericana in mexico, as well as a postgraduate in Data Science.
 
 <!--
 **karenbocardo/karenbocardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
